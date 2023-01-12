@@ -1,5 +1,5 @@
 function add() {
-  x = 11;
+  let x = 11;
   return x;
 }
 add();
