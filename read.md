@@ -1,26 +1,4 @@
-logo
-Microverse README Template
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 Linters
+
 Describe your project in 1 or 2 sentences.
 
 Linters is a tool that helps to improve our code. Linter helps to remove simple bugs from our code.
